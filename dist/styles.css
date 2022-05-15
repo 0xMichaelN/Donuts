@@ -198,6 +198,7 @@
 /* About Section */
 
 .about{
+    padding-top: 50px;
     background-repeat: repeat;
     background-size: cover;
 }
@@ -285,7 +286,7 @@
 }
 
 .btn-hover.color-1 {
-    background-image: linear-gradient(to right, #ffe200, #ed1d24, #ed1d24, #ffe200);
+    background-image: linear-gradient(to right, #73e600, #59b300, #73e600, #59b300);
     box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
 }
 
@@ -368,7 +369,7 @@
 /* Menu */
 
 .menu{
-     padding-top: 50px;     
+  padding-top: 100px;     
  }
  
  .menu h1{
@@ -379,6 +380,10 @@
  }
 
 /* Traits Section */
+
+.traits{
+  padding-top: 50px;
+}
 
 .traits h1{
     font-size: 3rem;
@@ -400,6 +405,10 @@
 
 /* Story Section */
 
+.story{
+  padding-top: 50px;
+}
+
 .story h1{
     font-size: 3rem;
     margin-top: 0rem;
@@ -410,6 +419,10 @@
 
 
 /* FAQ Section */
+
+.faq{
+  padding-top: 50px;
+}
 
 .faq h1{
     font-size: 3rem;
@@ -481,6 +494,10 @@
 }
 
 /* Team Section */
+
+.team{
+  padding-top: 50px;
+}
 
 .team h1{
     font-size: 3rem;
